@@ -1,9 +1,9 @@
 {
-  "name": "nestjs-redoc",
-  "version": "2.2.2",
+  "name": "@fzak1/nestjs-redoc",
+  "version": "1.0.0",
   "description": "NestJS ReDoc frontend",
-  "repository": "https://github.com/mxarc/nestjs-redoc",
-  "author": "Alfonso Reyes",
+  "repository": "https://github.com/fetche12345/nestjs-redoc",
+  "author": "Felix Zak",
   "main": "dist/index.js",
   "private": false,
   "license": "MIT",
